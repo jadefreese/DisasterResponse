@@ -12,11 +12,11 @@ In order to run this project, install Python 3 or higher with the following Pyth
 ### To Run:
 1. Run the following commands in the project's root directory to set up your database and model.
 
-    - To run ETL pipeline that cleans data and stores in database `python disaster-response-pipeline-project/data/process_data.py disaster-response-pipeline-project/data/disaster_messages.csv disaster-response-pipeline-project/data/disaster_categories.csv disaster-response-pipeline-project/data/DisasterResponse.db`
-    - To run ML pipeline that trains classifier and saves `python disaster-response-pipeline-project/models/train_classifier.py disaster-response-pipeline-project/data/DisasterResponse.db disaster-response-pipeline-project/models/classifier.pkl`
+    - To run ETL pipeline that cleans data and stores in database `python DisasterResponse/data/process_data.py DisasterResponse/data/disaster_messages.csv DisasterResponse/data/disaster_categories.csv DisasterResponse/data/DisasterResponse.db`
+    - To run ML pipeline that trains classifier and saves `python DisasterResponse/models/train_classifier.py DisasterResponse/data/DisasterResponse.db DisasterResponse/models/classifier.pkl`
 
 2. Run the following command in the app's directory to run your web app.
-    `python disaster-response-pipeline-project/app/run.py`
+    `python DisasterResponse/app/run.py`
 
 3. Go to http://0.0.0.0:3001/
 
