@@ -43,11 +43,11 @@ This project aims to build an ETL pipeline that processes messages and category 
 
 ## Results<a name="results"></a>
 
-![File1](https://github.com/jadefreese/disaster-response-pipeline-project/blob/main/Web%20App%20Screenshots/Classifying%20Message.JPG)
-![File2](https://github.com/jadefreese/disaster-response-pipeline-project/blob/main/Web%20App%20Screenshots/Home%20Page1.JPG)
-![File3](https://github.com/jadefreese/disaster-response-pipeline-project/blob/main/Web%20App%20Screenshots/Home%20Page2.JPG)
-![File4](https://github.com/jadefreese/disaster-response-pipeline-project/blob/main/Web%20App%20Screenshots/Home%20Page3.JPG)
-![File5](https://github.com/jadefreese/disaster-response-pipeline-project/blob/main/Web%20App%20Screenshots/Home%20Page4.JPG)
+![File1](https://github.com/jadefreese/DisasterResponse/blob/main/Web%20App%20Screenshots/Classifying%20Message.JPG)
+![File2](https://github.com/jadefreese/DisasterResponse/blob/main/Web%20App%20Screenshots/Home%20Page1.JPG)
+![File3](https://github.com/jadefreese/DisasterResponse/blob/main/Web%20App%20Screenshots/Home%20Page2.JPG)
+![File4](https://github.com/jadefreese/DisasterResponse/blob/main/Web%20App%20Screenshots/Home%20Page3.JPG)
+![File5](https://github.com/jadefreese/DisasterResponse/blob/main/Web%20App%20Screenshots/Home%20Page4.JPG)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 This app was completed as part of the Udacity Data Scientist Nanodegree. Code templates and data were provided by Udacity. The data was originally sourced by Udacity from Figure Eight.
